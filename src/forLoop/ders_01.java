@@ -44,7 +44,6 @@ public class ders_01 {
 
         int toplam = 0;
 
-
         if (input > output) {
             System.out.println("lütfen başlangıç değeri bitiş değerinden küçük olsun");
 
