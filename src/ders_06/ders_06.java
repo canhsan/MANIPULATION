@@ -41,7 +41,7 @@ public class ders_06 {
 
         }
         System.out.println("Girilen " + sayac + " adet sayinin toplami : " + toplam);
-
+        System.out.println("Girilen " + sayac + " adet sayinin toplami : " + toplam);
 
     }
 }
