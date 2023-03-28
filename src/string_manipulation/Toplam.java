@@ -7,6 +7,7 @@ public class Toplam {
 
         for (int i = 1; i <= 10; i++) {
             toplam += i;
+
         }
 
         System.out.println("1 ile 10 arasındaki sayıların toplamı: " + toplam);
