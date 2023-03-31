@@ -17,6 +17,7 @@ public class do_While123 {
          */
 
         Scanner scan = new Scanner(System.in);
+        System.out.println(" ");
 
 
         String sifre = "";
